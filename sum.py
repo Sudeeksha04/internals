@@ -1,4 +1,4 @@
-print("Find the sum of two numbers")
-int a=int(input("Enter the first number:"))
-int b=int(input("Enter the second number:"))
-print("The sum of",a,"and",b,"is",a+b)
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+sum = num1 + num2
+print("The sum of", num1, "and", num2, "is", sum)
